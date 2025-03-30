@@ -15,10 +15,10 @@ const Home = () => {
       >
         <div className="mb-8">
           <h1 className="text-5xl md:text-6xl font-bold text-white mb-4">
-            Deepak Kumar
+            Deepsingh Jhalawa
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8">
-            Full Stack Developer | React Specialist | Web Innovator
+            MERN Stack Developer
           </p>
         </div>
 
@@ -29,7 +29,7 @@ const Home = () => {
           className="flex justify-center space-x-6 mb-8"
         >
           <img 
-            src="/api/placeholder/300/300" 
+            src="/images/myImage.jpg" 
             alt="Profile" 
             className="rounded-full w-48 h-48 object-cover border-4 border-white shadow-lg"
           />
@@ -37,7 +37,7 @@ const Home = () => {
 
         <div className="flex justify-center space-x-6 mb-8">
           <a 
-            href="https://github.com/yourusername" 
+            href="https://github.com/Deepsinghjhalawa" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-white hover:text-blue-400 transition"
@@ -45,7 +45,7 @@ const Home = () => {
             <Github size={32} />
           </a>
           <a 
-            href="https://linkedin.com/in/yourusername" 
+            href="https://www.linkedin.com/in/deepsingh-jhalawa-91906125b/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-white hover:text-blue-400 transition"
